@@ -10,8 +10,8 @@ This Terraform project provisions a complete network and compute environment on 
 
 ## 📁 Project Structure
 
-├── provider.tf 
-├── mynetwork.tf
-└── instance/ 
-    ├── main.tf 
-    └── variables.tf 
+├── provider.tf <br>
+├── mynetwork.tf<br>
+<p>└── instance/ </p>
+    ├── main.tf <br>
+    └── variables.tf <br>
