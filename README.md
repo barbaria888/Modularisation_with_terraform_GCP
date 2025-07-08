@@ -13,5 +13,5 @@ This Terraform project provisions a complete network and compute environment on 
 ├── provider.tf <br>
 ├── mynetwork.tf<br>
 └── instance/ <br>
-    ├── main.tf <br>
-    └── variables.tf <br>
+&nbsp;&nbsp;&nbsp;├── main.tf <br>
+&nbsp;&nbsp;&nbsp;└── variables.tf <br>
